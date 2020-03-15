@@ -3,7 +3,7 @@
 Python uses two multiplication symbols to represent exponents:
 
 ```python
->>> 3 ** 2    // 3^2
+>>> 3 ** 2    # 3^2
 9
 ```
 
@@ -25,7 +25,7 @@ When you're writing long numbers, you can group digits using underscores to make
 
 ```python
 universe_age = 14_000_000_000
-print(universe_age) // Output: 14000000000
+print(universe_age) # Output: 14000000000
 ```
 
 {% hint style="success" %}
