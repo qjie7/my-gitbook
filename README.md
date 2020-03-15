@@ -1,14 +1,8 @@
 ---
-description: Chapter 2 - Variable and Simple Data Types
+description: Chapter 1 - Getting Python Started
 ---
 
 # Hello World of Python
 
-Anything
-
-```python
-
-```
-
-
+To be completed...
 
